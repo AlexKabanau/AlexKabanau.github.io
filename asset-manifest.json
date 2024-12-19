@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b34af8e8.css",
-    "main.js": "/static/js/main.ac4d6d4a.js",
+    "main.js": "/static/js/main.baea564b.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/001.png": "/static/media/001.c79cb39491cd5b800d5a.png",
     "static/media/009.png": "/static/media/009.2fd1439eb9fbb29e23fc.png",
+    "static/media/CV Alexandr Kabanau 2024.pdf": "/static/media/CV Alexandr Kabanau 2024.550bd97d3f51b987c9a4.pdf",
     "static/media/007.png": "/static/media/007.65a6e41f39d23b3407ea.png",
-    "static/media/CV Alexandr Kabanau 2024.pdf": "/static/media/CV Alexandr Kabanau 2024.40558b75ccdbcd767c88.pdf",
     "static/media/010.png": "/static/media/010.2c1c30c436b9e451b38f.png",
     "static/media/013.png": "/static/media/013.b47a57b9c4f172efb2e9.png",
     "static/media/014.png": "/static/media/014.db7fee95e7e5796e600a.png",
@@ -27,11 +27,11 @@
     "index.html": "/index.html",
     "static/media/deploy-rules-svgrepo-com.svg": "/static/media/deploy-rules-svgrepo-com.2207ea1a8522ff1416b8a4bf74e82c1b.svg",
     "main.b34af8e8.css.map": "/static/css/main.b34af8e8.css.map",
-    "main.ac4d6d4a.js.map": "/static/js/main.ac4d6d4a.js.map",
+    "main.baea564b.js.map": "/static/js/main.baea564b.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b34af8e8.css",
-    "static/js/main.ac4d6d4a.js"
+    "static/js/main.baea564b.js"
   ]
 }
